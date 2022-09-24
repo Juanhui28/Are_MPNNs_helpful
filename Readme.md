@@ -104,4 +104,4 @@ Please cite the following paper if you use this code in your work.
   year={2022}
 }
 ```
-For any clarification, comments, or suggestions please create an issue or contact [Shikhar](https://github.com/Juanhui28).
+For any clarification, comments, or suggestions please create an issue or contact [Juanhui](https://github.com/Juanhui28).
