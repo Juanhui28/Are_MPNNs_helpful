@@ -4,7 +4,7 @@
 </h1>
  -->
 <h1 align="center">Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?</h1>
-
+Source code for the paper "Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?"
 
 ### Dependencies
 
@@ -93,3 +93,15 @@ python run.py -model 'mlp' -read_setting 'negative_sampling'  -neg_num 10  -scor
 ####rgcn-mlp fb15k
 python run.py -model 'mlp' -read_setting 'negative_sampling'  -neg_num 10  -score_func 'distmult' -data 'FB15k' -lr 0.0001 -batch 512  -l2 0. -num_workers 3 -gcn_layer 1 -hid_drop 0.1 -init_dim 600 -gcn_dim 600 -k_w 10 -k_h 60 
 ```
+
+### Citation:
+Please cite the following paper if you use this code in your work.
+```bibtex
+@article{li2022graph,
+  title={Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?},
+  author={Li, Juanhui and Shomer, Harry and Ding, Jiayuan and Wang, Yiqi and Ma, Yao and Shah, Neil and Tang, Jiliang and Yin, Dawei},
+  journal={arXiv preprint arXiv:2205.10652},
+  year={2022}
+}
+```
+For any clarification, comments, or suggestions please create an issue or contact [Shikhar](https://github.com/Juanhui28).
