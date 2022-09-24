@@ -1,4 +1,9 @@
 
+<!-- <h1 align="center">
+  CompGCN
+</h1>
+ -->
+<h1 align="center">Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?</h1>
 
 
 ### Dependencies
@@ -16,7 +21,7 @@ The key packages are the pytorch,torch-geometric/torch-scatter package. More det
 
 
 
-#### input data
+### Input data
 please decompress the data.tar.gz and put the data folder in the same folder position with the run.py 
 
 - FB15k
