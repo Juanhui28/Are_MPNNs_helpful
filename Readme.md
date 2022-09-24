@@ -16,8 +16,8 @@ The key packages are the pytorch,torch-geometric/torch-scatter package. More det
 
 
 
-##### input data
-please put the data folder in the same folder position with the run.py 
+#### input data
+please decompress the data.tar.gz and put the data folder in the same folder position with the run.py 
 
 - FB15k
 - FB15k-237
