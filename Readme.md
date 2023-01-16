@@ -24,7 +24,7 @@ The key packages are the pytorch,torch-geometric/torch-scatter package. More det
 ### Input data
 We put the data in this link: https://drive.google.com/file/d/1vQXyMP5HeM-UJBOyRDnXO28YbuZMZeLb/view?usp=sharing
 
-Please decompress the data.tar.gz and put the data folder in the same folder position with the run.py 
+Please decompress the data.zip and put the data folder in the same folder position with the run.py 
 
 - FB15k
 - FB15k-237
