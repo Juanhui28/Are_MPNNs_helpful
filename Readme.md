@@ -4,7 +4,7 @@
 </h1>
  -->
 <h1 align="center">Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?</h1>
-Source code for the paper "Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?"
+Source code for the ACL paper [Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?] {https://arxiv.org/pdf/2205.10652.pdf}
 
 ### Dependencies
 
@@ -102,7 +102,8 @@ Please cite the following paper if you use this code in your work.
 @article{li2022graph,
   title={Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?},
   author={Li, Juanhui and Shomer, Harry and Ding, Jiayuan and Wang, Yiqi and Ma, Yao and Shah, Neil and Tang, Jiliang and Yin, Dawei},
-  journal={arXiv preprint arXiv:2205.10652},
+  journal={Proceedings of the 61st Annual Meeting of the Association for Computational
+                  Linguistics, {ACL} 2023, Toronto, Cananda},
   year={2022}
 }
 ```
