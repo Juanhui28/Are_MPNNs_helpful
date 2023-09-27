@@ -1,8 +1,6 @@
 
-<!-- <h1 align="center">
-  CompGCN
-</h1>
- -->
+
+
 <h1 align="center">Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?</h1>
 Source code for the ACL paper [Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?](https://arxiv.org/pdf/2205.10652.pdf)
 
