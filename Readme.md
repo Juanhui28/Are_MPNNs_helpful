@@ -96,7 +96,7 @@ python run.py -model 'mlp' -read_setting 'negative_sampling'  -neg_num 10  -scor
 Please cite the following paper if you use this code in your work.
 ```bibtex
 @article{li2022graph,
-  title={Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?},
+  title={Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?},
   author={Li, Juanhui and Shomer, Harry and Ding, Jiayuan and Wang, Yiqi and Ma, Yao and Shah, Neil and Tang, Jiliang and Yin, Dawei},
   journal={Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, {ACL} 2023, Toronto, Cananda},
   year={2023}
